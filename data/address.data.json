@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "line1": "Lorem",
+    "line2": "Ipusm",
+    "pinCode": "2839289",
+    "userId": "1"
+  },
+  {
+    "id": "2",
+    "line1": "Lorem",
+    "line2": "Ipusm",
+    "pinCode": "2839289",
+    "userId": "1"
+  },
+  {
+    "id": "3",
+    "line1": "Ipsum",
+    "line2": "Itju",
+    "pinCode": "8728383",
+    "userId": "2"
+  },
+  {
+    "id": "4",
+    "line1": "Ipsum",
+    "line2": "Itju",
+    "pinCode": "8728383",
+    "userId": "2"
+  },
+  {
+    "id": "p_VQTlqRD",
+    "userId": "2",
+    "line1": "test",
+    "line2": "",
+    "pinCode": "92292"
+  }
+]
