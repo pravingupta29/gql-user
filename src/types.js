@@ -7,6 +7,7 @@ const typeDefs = gql`
   type User @key(fields: "id") {
     id: ID!
     name: String!
+    fatherName: String
     email: String!
     addressList: [Address!]!
     phone: String!
